@@ -20,7 +20,7 @@ npm install -g hexo-cli
 # hexo deploy
 cd ~
 mkdir -v hexo
-hexo init hexo
+npx hexo init hexo
 cd hexo
     npm install
 cd ..
